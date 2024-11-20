@@ -1,0 +1,3 @@
+U2, MagnTek MT6816 Encoder IC
+D1, 6V 0603 rectifier diode
+C1, 100nF 0603 ceramic capacitor
