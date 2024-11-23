@@ -14,6 +14,8 @@ Aside from the 3D printed components and encoder PCB, these pods will need a few
 1x 2" Andymark Omni-wheel (a version for smaller wheels is in development)
 1x 8x12x3.5mm flanged bearings
 2x M3 threaded inserts
+2x M3 screws
+2x M2 screws
 1x 2.5" 10-24 machine screw
 1x 6x2mm diametrically polarized (encoder) magnet
 
